@@ -1,0 +1,4 @@
+<resources>
+    <string name="channel_name">Notification Channel</string>
+    <string name="channel_description">Description for the channel</string>
+</resources>
